@@ -19,7 +19,7 @@ body {
 
 .sidebar {
     flex: 1;
-    background: #870000;
+    background: #red;
     color: #fff;
     padding: 20px;
 }
